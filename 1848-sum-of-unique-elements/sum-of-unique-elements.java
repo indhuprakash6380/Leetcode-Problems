@@ -10,7 +10,6 @@ class Solution {
                     count++;
                 }
             }
-
             if (count == 1) {
                 sum += nums[i];
             }
